@@ -1,0 +1,450 @@
+{
+  "BhojpuriMovie" : {
+	"Movie":[
+		{
+			"id": 1,
+			"Video_Id": "15HLGDQ7OEs",
+			"Movie_name": "Saiyaan Hain Annadi",
+			"Description": "Alok Kumar, Mohan Rathore Priyanka Singh, Vinti Singh, Neel Kamal Singh, Sanjana Raj, Neetu Shree & Vijay Chauhan",
+			"Movieimg": "https://i.ytimg.com/vi/OPMd2ex-708/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "waZfDqA5Sac",
+			"Movie_name": "Bhag Khesari Bhag",
+			"Description": "Being struck with bad luck throughout his life and having had to run for his life to escape most situations, a man is inspired to take up running as a sport and win accolades for the country.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjY4NjZhNTAtZTYxOC00MjRmLWE5ZjAtMGU2N2FhMmQ0NGI2XkEyXkFqcGdeQXVyMTM2MjY5MDcz._V1_.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "GeoUNUOKXOo",
+			"Movie_name": "COLLECTOR SAHAB",
+			"Description": "Pramod premi Yadav, Sanjana pandey, Sanjay pandey, Mahesh Acharya, Santosh Srivastava, Vinod mishra , Neelam Vasist, Shradhha naval, Dhama vamay, Pallavi kolhi, Rakesh babu, Rajneesh Pathak, Pushpendra rai, Vandana dubey, Sangeeta rai,Natasha suri ,Angad kashyap",
+			"Movieimg": "https://c.saavncdn.com/210/Collector-Sahab-Bhojpuri-2022-20230117125850-500x500.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "rAKtuoTl5H8",
+			"Movie_name": "Badhaiya Baje More Angana",
+			"Description": "Badhaiya Baje More Aangana is an upcoming Bhojpuri movie. The movie is directed by Om Jha and will feature Gaurav Jha, Glory Mohanta, Sanjana Pandey and Lalit Upadhyay as lead characters. Other popular actor who was roped in for Badhaiya Baje More Aangana is Kanchan Mishra.",
+			"Movieimg": "https://i.ytimg.com/vi/PLCFlRrnRIA/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "8tk2eL0EkAg",
+			"Movie_name": "LOOTERE",
+			"Description": "Film Lootere is a full of Action and Drama. Pawan Singh, Akshara Singh, Yash Kumar Mishra, and Gaurav Jha are in the lead roles. Pawan Singh, Yash Kumar Mishra(YKM), Gaurav Jha are role in police officer.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjUwOTRiYjAtM2Q4Yy00YWYxLWE2ODUtYmIwNTkzNDhiZDNmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "iWOEE9jFAeY",
+			"Movie_name": "Ghar Jamai",
+			"Description": "Dwarka, a millionaire, is impressed by Anil, a principled man, and wants him to marry Mona, his daughter. However, after their marriage, he compels him to move into his house.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTU2YzUxNmYtOGFkOC00ZWY3LTkwNTYtMjllOGNiNmJlNmMwXkEyXkFqcGdeQXVyMTMyNDU3NTY1._V1_.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "uUafJXJBMFw",
+			"Movie_name": "SHAADI MUBARAK",
+			"Description": "Madhav, an NRI, arrives in India to look for a bride. He is accompanied by Satyabhama, the daughter of a wedding consultant, and eventually falls in love with her.",
+			"Movieimg": "https://www.bhojpuriculture.com/wp-content/uploads/2023/01/Shadi-Mubarak-Bhojpuri-Film-all-Information-min.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "r8hFYaaaoGk",
+			"Movie_name": "DOLI SAJA KE RAKHNA",
+			"Description": "The film revolves around the emotional relationship between father and son. However, for the sake of love, the latter breaks all the shackles of society.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/doli-saja-ke-rakhna-2022-et00338859-1662103735.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "UhWLXlrY0hY",
+			"Movie_name": "SASUJI TUNE KADAR NA JANI",
+			"Description": "When Pinky gets married and moves in with her husband and in-laws, she faces oppression at the hands of her mother-in-law. She then tries to change her mother-in-law's ways of living.",
+			"Movieimg": "https://c.saavncdn.com/279/Sasu-Ji-Tune-Kadar-Na-Jani-Bhojpuri-2022-20230117125507-500x500.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "CzC2vkPUvVA",
+			"Movie_name": "NIRAHUA HINDUSTANI 2",
+			"Description": "Nirahua, a carefree young man, escapes from his village when his family fixes his wedding with an unknown girl. However, when he moves to the city, he falls in love with his employer's daughter.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/8/89/Nirahua_hindustani_2.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "FQnQ8JqqNQo",
+			"Movie_name": "SINDOORDAN",
+			"Description": "Movie starring Pawan Singh, Monalisa, Gurleen Chopra, Gaurav Ghai, Prakash Jaiswal, Reemadev Naath, Jafar Khan, Irshad Khan and directed by Saniya Media Entertainments.",
+			"Movieimg": "https://i.ytimg.com/vi/YReD8kZnhAo/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "jpaAs6jULQI",
+			"Movie_name": "Vidhya",
+			"Description": "Vidya, a woman from a rich family, falls in love with Chandu, a cobbler's son. Trouble brews when they decide to get married, but her father disapproves of their alliance.",
+			"Movieimg": "https://i.ytimg.com/vi/9rPMP70dHsM/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "BdNnIQI02IU",
+			"Movie_name": "Nirahua Rickshawala 2",
+			"Description": "Nirahua, a widower rickshaw puller, sets out to exact revenge against the people who killed his father. In the process, he meets and falls in love with Radha, his childhood sweetheart.",
+			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/ef1459bf17c633abf5335c47abcf9af2/en/16x9/640x360/test_pic1625136712210.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "clOpG_7iGjc",
+			"Movie_name": "BHOJPURIYA RAJA",
+			"Description": "Raja, an illiterate young man, falls in love with Priti but his mother disapproves of their relationship. Things take a turn for the worse when he earns the enmity of a powerful don.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGIzZWU0ODItODhjMS00MGE5LWFiYTAtMjM0NjI0NWNkZDY2XkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "gUjygnXyfBU",
+			"Movie_name": "BETI HO TO AISI",
+			"Description": "SANJANA PANDEY, NEELU SHNAKAR SINGH ,SANKET PATHAK , KIRAN YADAV, DEVSINGH, PRAKASHJAIS, GLORRY MOHANTA",
+			"Movieimg": "https://i.ytimg.com/vi/gUjygnXyfBU/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "6tge8VOHv9k",
+			"Movie_name": "EK PATI TEEN SAUTAN",
+			"Description": "PRAVESH LAL YADAV, RICHA DIXIT, YAMINI SINGH, KHUSHBU JHA, VINOD MISHRA, SONIYA MISHRA, RITU PANDEY,UMAKANT RAI, SUJEET SARTHAK, RAVI TIWARI,RAJ DRIWEDI,R.K.GOSWAMI, BAL MUKUND, PARMANAND TIWARI, MANISHA YADAV.",
+			"Movieimg": "https://i.ytimg.com/vi/6tge8VOHv9k/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "WvZ-Ztcc-1I",
+			"Movie_name": "SAIYA ARAB GAILE NA",
+			"Description": "A young man falls in love with a rich girl whose father asks him to produce 15 lakhs before marrying her. In order to get rich quick, he travels abroad but faces another set of challenges there.",
+			"Movieimg": "https://navbharattimes.indiatimes.com/photo/msid-77848382,imgsize-1167394/pic.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "AE8Hd-zVRh8",
+			"Movie_name": "Raaz Pichle Janm Ka",
+			"Description": "The show opens with the guest explaining a particular problem, usually a fear they are facing and wishes to find a solution or insight into.",
+			"Movieimg": "https://a10.gaanacdn.com/images/albums/99/6972999/crop_480x480_6972999.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "DG8xxSwSWIc",
+			"Movie_name": "Aaye Hum Barati Barat Leke",
+			"Description": "Aaye Hum Baraati Baraat Leke is a love story based in the city of Love-Mathura. Mantu (\"Nirahua\") a boy from Mathura falls in love with a Punjabi girl Mahi (Jaz Sodhi). she is already engaged with a Punjabi Businessman Harman (Meet Arora).",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDc1NGZhZTYtNmJhYy00OGMzLWE1ZDQtYWI3MGFmZDNjNzcyXkEyXkFqcGdeQXVyODI1MTQ5ODY@._V1_.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "4XPZKZw0D6Q",
+			"Movie_name": "SABKA BAAP ANGUTHA CHHAP",
+			"Description": "Sabka Baap Angutha Chhap(Bhojpuri) is a Drama and action movie directed by Parag Patil featuring Dinesh Lal Yadav Nirahua, Akshara Singh in the lead roles and others are Shruti Rao, Sanjay Pandey, Manoj Tiger, Sanjay Mahanand, Padam Singh, Preeti Singh. It is produced by Pradeep k. Sharma under banner Baba Motion Picture, Srk Music-Roshan Singh.",
+			"Movieimg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jQ8HSvqps6Bujg6b8o4ozHafa0ZOIiM7338Dbb1xw8KXWL-1Il9NKl4SHAfKeKkDkkMTjxzX6WxPrMM3H9gwKlO-LZYu1f7-s5oW98vK__BfVIZ3yRPTq2Nqtl-z9XrOZZKouwmsfA6icNW0H_kdr7WKy4i5D-K8QwS01sRuvQOpqMoNi4B5PKh1/s1600/Sabka-Baap-%20Angutha-Chhap-nirahua-and%20Akshara-singh-movie.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "mOvgHxwstAs",
+			"Movie_name": "Sasura Bada Sataweal",
+			"Description": "The movie is directed by Rajkumar R. Pandey and featured Kajal Raghwani, Pradeep Pandey, Sanjay Pandey and Manoj Tiger as lead characters.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNWIzM2E2ZTgtMTUzZS00M2IyLWFlOTEtN2RmYmZiYzQ5MzU0XkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "2P-GSUj-17I",
+			"Movie_name": "Inspector Vijay",
+			"Description": "An honest cop gets embroiled in a conspiracy against him, and now has just 24 hours to prove his innocence and exact vengeance upon his tormentors.",
+			"Movieimg": "https://i.ytimg.com/vi/ECof8i59W7g/maxresdefault.jpg"
+		},
+		{
+			"id": 23,
+			"Video_Id": "TdSzSzE4nUg",
+			"Movie_name": "NAIHAR",
+			"Description": "Naihar is a Drama movie directed by Ajay Kumar Jha featuring Amrapali Dubey, Gaurav Jha in the lead roles and others are Sanjay Pandey, Maya Yadav, Shraddhanjali Yadav, Brijesh Tripathi.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTViZWRiNjEtODAyYy00OGU0LThmNjYtNDM0NTI1NjI1NzQxXkEyXkFqcGdeQXVyMTMyNDU3NTY1._V1_.jpg"
+		},
+		{
+			"id": 24,
+			"Video_Id": "Oe25wWLPI_I",
+			"Movie_name": "Pradhan Ji",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/Oe25wWLPI_I/maxresdefault.jpg"
+		},
+		{
+			"id": 25,
+			"Video_Id": "22MIYzuAnLo",
+			"Movie_name": "Chalte Chalte",
+			"Description": "From classics to the latest hits, you can find them all on our television channel. Tune in for some masti, gaana, action, and romance, featuring the biggest names from the Bhojpuri film industry.",
+			"Movieimg": "https://bhojpurimedia.net/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-05-at-09.32.14.jpeg"
+		},
+		{
+			"id": 26,
+			"Video_Id": "jzIxeLpNQoE",
+			"Movie_name": "Khesari Number 1",
+			"Description": "Khesari lal Yadav, Sudhiksha jha, Kiran Yadav, Mahesh Acharya, Manoj tiger, Kriti verma, Nisha singh, Puja ganguly, Shubhi Sharma Beena pandey, Rinku Bharti, Manoj singh, child artist- Priya Sharma, ARYAN SHARMA",
+			"Movieimg": "https://i.ytimg.com/vi/jzIxeLpNQoE/hq720.jpg"
+		},
+		{
+			"id": 27,
+			"Video_Id": "zrWYP8S2eP0",
+			"Movie_name": "NAYA VIVAH",
+			"Description": "A girl wishes to get married to her boyfriend but fears the restrictions after marriage. Later, she makes her husband do all the household chores.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGM0MmQ2NzUtODYzMi00YThjLTljYjMtZWU0NzJlZGNkMThhXkEyXkFqcGdeQXVyMTMyNDU3NTY1._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 28,
+			"Video_Id": "QX8wau4O_MA",
+			"Movie_name": "RAJA KI AAYEGI BAARAAT",
+			"Description": "Khesari Lal Yadav, Sudiksha Jha and Sanjukta Rai are working in this film. The chemistry of the three is getting so much that it seems that there can be no other actress except them. ",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTRiN2I5OTctY2I3My00YTcwLWEwNmEtYmQ1ZGQ2MmNkMjFiXkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_.jpg"
+		},
+		{
+			"id": 29,
+			"Video_Id": "B19MV5j0Qfs",
+			"Movie_name": "Vivah 2",
+			"Description": "The movie is directed by Premanshu Singh and featured Akshara Singh, Amrapali Dubey and Pradeep Pandey as lead characters.",
+			"Movieimg": "https://static.toiimg.com/thumb/msid-87783416,width-219,height-317,imgsize-52695/87783416.jpg"
+		},
+		{
+			"id": 30,
+			"Video_Id": "JC5pCDaE1mk",
+			"Movie_name": "Aan Ban Shan",
+			"Description": "The movie is directed by Pramod Shastri and featured Arvind Akela Kallu, Kajal Yadav and Manoj Tiger as lead characters.",
+			"Movieimg": "https://www.bhojpuriculture.com/wp-content/uploads/2021/11/Aan-Baan-Shan-Bhojpuri-Film-all-information-min.jpg"
+		},
+		{
+			"id": 31,
+			"Video_Id": "pXClxziksXI",
+			"Movie_name": "HUM TUMHARE HAI SANAM",
+			"Description": "SANJANA PANDEY,ANSHUMAN SINGH,SANKET PATHAK,ARYAN RAJ MANISH CHATURVEDI,PRERNA SUSHMA,RAM MISHRA,VINOD MISHRA,KALYANI JHA, SONAL TRIVEDI, VINOD MISHRA, O.PKASHYAP,NITESH SINHA",
+			"Movieimg": "https://c.saavncdn.com/175/Hum-Tumhare-Hain-Sanam-Hindi-2021-20210602001021-500x500.jpg"
+		},
+		{
+			"id": 32,
+			"Video_Id": "lOGcbQ0qQ-4",
+			"Movie_name": "Ye Bandhan Hai Pyar Ka",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/c_QnLIW5Ae8/maxresdefault.jpg"
+		},
+		{
+			"id": 33,
+			"Video_Id": "nEkMQ_Rff-o",
+			"Movie_name": "Trimurti",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/nEkMQ_Rff-o/maxresdefault.jpg"
+		},
+		{
+			"id": 34,
+			"Video_Id": "Sk3HdT2gxkY",
+			"Movie_name": "Jabariya Fere",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/HxPwNvuqm7I/maxresdefault.jpg"
+		},
+		{
+			"id": 35,
+			"Video_Id": "7RCjqOX3LhU",
+			"Movie_name": "SATYA",
+			"Description": "Satya, a young man, works for Tabrez Ansari, a gangster. Later, he falls in love with Sapna, a beautiful woman, and his enemies plan to use his weakness to their advantage.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTMwMjk3MzA2OF5BMl5BanBnXkFtZTcwNjU2ODgzMQ@@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 36,
+			"Video_Id": "xDUtTthW6fE",
+			"Movie_name": "Dostana",
+			"Description": "",
+			"Movieimg": "https://4.bp.blogspot.com/-u-TLIuRCXf8/XxRSwbHZWdI/AAAAAAAAQ8E/utnGd5E2GKEnO3_hQraRRzHorXoDPmMUwCLcBGAsYHQ/s1600/dostana-Bhojpuri-movie-star-casts-news-Wallpapers-songs-videos.jpg"
+		},
+		{
+			"id": 37,
+			"Video_Id": "rChnCgioE04",
+			"Movie_name": "BAAPJI",
+			"Description": "An elderly man is determined to get married but his son is against his decision. This leads to countless arguments between the two.",
+			"Movieimg": "https://www.hindirush.com/wp-content/uploads/sites/3/2022/09/Baap-Ji-Bhojpuri-Movie.jpg"
+		},
+		{
+			"id": 38,
+			"Video_Id": "WGevVkM5P8I",
+			"Movie_name": "Raj Tilak",
+			"Description": "A king is cheated by his own men and his newborn son ends up in a gypsy camp. Several years later, when a substitute prince, Shamsher, inflicts atrocities on the royal family, the lost prince returns.",
+			"Movieimg": "https://i.ytimg.com/vi/Sh8pOQ5CMu8/maxresdefault.jpg"
+		},
+		{
+			"id": 39,
+			"Video_Id": "yet8_3Cl1To",
+			"Movie_name": "Apradhi",
+			"Description": "Apradhi (Bhojpuri Song) is a Bhojpuri language song and is sung by Ajeet Anand and Anupma Yadav. Apradhi (Bhojpuri Song), from the album Apradhi, was released in the year 2021.",
+			"Movieimg": "https://i.ytimg.com/vi/LQLG2_2_lNE/maxresdefault.jpg"
+		},
+		{
+			"id": 40,
+			"Video_Id": "660BE6yoAAU",
+			"Movie_name": "Gaana Putra",
+			"Description": "A young man falls in love with a woman while trying to fend for his family. However, he faces many challenges in his quest.",
+			"Movieimg": "https://a10.gaanacdn.com/images/albums/13/2149913/crop_480x480_2149913.jpg"
+		},
+		{
+			"id": 41,
+			"Video_Id": "LEAwZ71hT30",
+			"Movie_name": "Sangharsh 2",
+			"Description": "Sangharsh 2 is an upcoming Bhojpuri-Language action film co-produced by Ratnakar Kumar and Kuldeep Srivastava, Directed by Parag Patil and written by Veeru Thakur. A sequel to 2018 film Sangharsh, the film stars Khesari Lal Yadav, Meghasri and Sanjay Pandey.",
+			"Movieimg": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgknuzb9ah8wvzQQUxEGv14GENx6wgPQ3a75lFaDE5cXkCrTLJotpJz5LCJ_ck9sBN4V_thFc0yn0r3fH_dnhU8wPULnWupcnLAhChPV7o2RokECnSwfrG9L-5GI3bAwXBY5c_zgGt5vImCMGtzguA4bAgjyen_X0RFYj8zZpqelSL5XA32sVeCbbI6/s1600/khesari-movie-sangharsh-2-teaser.jpg"
+		},
+		{
+			"id": 42,
+			"Video_Id": "8sTIdAhnuKQ",
+			"Movie_name": "Sindurdan",
+			"Description": "",
+			"Movieimg": "https://a10.gaanacdn.com/images/albums/76/2056176/crop_480x480_2056176.jpg"
+		},
+		{
+			"id": 43,
+			"Video_Id": "w5ELqJCApSo",
+			"Movie_name": "Rishto ka Batwara",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/Jbm6AVEKBDs/maxresdefault.jpg"
+		},
+		{
+			"id": 44,
+			"Video_Id": "pBOYc1zWrMA",
+			"Movie_name": "Sajan",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/yirGIN4sMy0/maxresdefault.jpg"
+		},
+		{
+			"id": 45,
+			"Video_Id": "FzAR9ckvS0o",
+			"Movie_name": "Ghunghat me Ghotala 2",
+			"Description": "Movie starring Pravesh Lal Yadav, Tanisha Mehta, Sanjay Pandey and directed by Manjul Thakur.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYjUyMzYyMzctYTExZi00NDU3LTg5MjAtZmNmYzdkZTVjODM1XkEyXkFqcGdeQXVyMTA4NDIzMTY1._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 46,
+			"Video_Id": "nZy1s1RPesw",
+			"Movie_name": "Rawdy Romeo",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/nZy1s1RPesw/maxresdefault.jpg"
+		},
+		{
+			"id": 47,
+			"Video_Id": "ZY5DUfvlxHU",
+			"Movie_name": "Jaisi Karni Waisi",
+			"Description": "A conniving son throws his aged parents out of the house. Years later, he meets the same fate when his son decides to teach him a lesson.",
+			"Movieimg": "https://biharmirchi.in/siteuploads/thumb/c/17274_0.jpg"
+		},
+		{
+			"id": 48,
+			"Video_Id": "3t4hzn-UNZA",
+			"Movie_name": "Tu Mera Hero",
+			"Description": "",
+			"Movieimg": "https://static.toiimg.com/photo/msid-61222030/61222030.jpg"
+		},
+		{
+			"id": 49,
+			"Video_Id": "2I-VYymhcrQ",
+			"Movie_name": "KHESARI LAL YADAV KI BAARAAT",
+			"Description": "",
+			"Movieimg": "https://i.ytimg.com/vi/QX8wau4O_MA/maxresdefault.jpg"
+		},
+		{
+			"id": 50,
+			"Video_Id": "mW6iuYavRI0",
+			"Movie_name": "Ek Duje Ke Liye 2",
+			"Description": "",
+			"Movieimg": "https://c.saavncdn.com/077/Ek-Dooje-Ke-Liye-2-Bhojpuri-2021-20211128135148-500x500.jpg"
+		},
+		{
+			"id": 51,
+			"Video_Id": "EG1pnlxRkEg",
+			"Movie_name": "DILWA LE GAYELE RAJA",
+			"Description": "",
+			"Movieimg": "https://c.saavncdn.com/709/Dilwa-Le-Gaile-Raja-Bhojpuri-2022-20220907165854-500x500.jpg"
+		},
+		{
+			"id": 52,
+			"Video_Id": "_zcer05MTxk",
+			"Movie_name": "JAI HIND",
+			"Description": "A young Indian man falls in love with a Pakistani woman. However, their happiness and romance take a backseat as they face severe opposition from the people around them.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNzg5YzgxMmQtYTczMy00YjYzLWJhZTktZWM0ZTRkYzdlNGI1XkEyXkFqcGdeQXVyNDc5OTY4OTc@._V1_.jpg"
+		},
+		{
+			"id": 53,
+			"Video_Id": "hCTMG1US8s0",
+			"Movie_name": "PIYA MILAN CHAURAHA",
+			"Description": "",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNjMwYmY3NGItZjNjOC00ZjYyLTkwZmUtMzk4M2NmZDBkMWY4XkEyXkFqcGdeQXVyNjkzMTc3Njg@._V1_.jpg"
+		},
+		{
+			"id": 54,
+			"Video_Id": "FrmbhWASS80",
+			"Movie_name": "PREET KA DAMAN 2",
+			"Description": "",
+			"Movieimg": "https://1.bp.blogspot.com/--s1xcCY8Cas/YJ6SSUwlxiI/AAAAAAAAamE/50TOLHR4XtUF5CvejeTlQcZQICSsIiD2QCLcBGAsYHQ/w276-h400/Preet-ka-Daman-2.jpg"
+		},
+		{
+			"id": 55,
+			"Video_Id": "KXClh8cisj8",
+			"Movie_name": "SARFAROSH",
+			"Description": "",
+			"Movieimg": "https://1.bp.blogspot.com/-qdPcZSyxaks/XoXMgXiBylI/AAAAAAAAZkk/RpPTrFAF4XsHzQ-i7svfvmQCbj3bWl5yACLcBGAsYHQ/s1600/Sarfarosh-Bhojpuri-Movie-Poster.jpg"
+		},
+		{
+			"id": 56,
+			"Video_Id": "jM4ApnKhqn0",
+			"Movie_name": "Dulhan Wahi Jo Piya Man Bhaye",
+			"Description": "Movie starring Khesari Lal Yadav, Madhu Sharma, Kajal Raghwani and directed by Rajnish Mishra.",
+			"Movieimg": "https://1.bp.blogspot.com/-GFY59FNC18Y/X_5fszVi9cI/AAAAAAAATOc/ztxdwKMN28U4EWsbO9a4Rg3xsRtbHMYmwCLcBGAsYHQ/s1105/dulhin-wahi-jo-piya-man-bhaye-Bhojpuri-movie.jpg"
+		}
+	],
+	"MovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "lUOFkevDXrg",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Fulwaa",
+			"Movieimg":"https://i.ytimg.com/vi/lUOFkevDXrg/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Bhojpuri"
+		},
+		{
+			"id": 2,
+			"Video_Id": "75dXTAvC74M",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "SON OF BIHAR",
+			"Movieimg":"https://i.ytimg.com/vi/75dXTAvC74M/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Bhojpuri"
+		},
+		{
+			"id": 3,
+			"Video_Id": "y5REmTnaJZU",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "KALAKAND",
+			"Movieimg":"https://i.ytimg.com/vi/y5REmTnaJZU/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Bhojpuri"
+		},
+		{
+			"id": 4,
+			"Video_Id": "xyq3TQij5YU",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Rok Sake To Rok Lo",
+			"Movieimg":"https://i.ytimg.com/vi/xyq3TQij5YU/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Bhojpuri"
+		},
+		{
+			"id": 5,
+			"Video_Id": "iryeXIaPduI",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "BEWAFA SANAM",
+			"Movieimg":"https://i.ytimg.com/vi/iryeXIaPduI/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Bhojpuri"
+		}
+	]
+  }
+}
